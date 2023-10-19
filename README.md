@@ -14,5 +14,7 @@ The main goal of this project is to build a predictive model that estimates a st
 Tools Used
 
 Python: Programming language used for data analysis, model building, and data visualization.
+
 Google Colab: Cloud-based Jupyter notebook environment that allows collaborative work on Python projects.
+
 Libraries: We'll be using popular Python libraries such as NumPy, Pandas, Matplotlib, and Scikit-Learn for data manipulation, analysis, and model building.
